@@ -2,10 +2,12 @@
 # schoolTeto!
 **schoolTeto is some random HTML Tetris clone I made for a school project.**
 
+Forked from [aznguymp4/schoolTeto](https://github.com/aznguymp4/schoolTeto), which is my main account...
+
 You can play it just like any guideline game and customize your keybinds and tunings.
 
 Controls settings are saved via browser cookies.
-### [▶ Play SchoolTeto! ◀](https://aznguy.com/schoolTeto/)
+### [▶ Play (forked) SchoolTeto! ◀](https://nguyeeri003.github.io/schoolTeto/)
 # FAQ
 
 ## Where is the T-Spin detection?
